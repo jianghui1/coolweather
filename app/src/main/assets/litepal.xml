@@ -7,7 +7,7 @@
     <list>
         <mapping class="com.coolweather.andorid.db.Province" />
         <mapping class="com.coolweather.andorid.db.City" />
-        <mapping class="com.coolweather.andorid.db.Country" />
+        <mapping class="com.coolweather.andorid.db.County" />
     </list>
 
 
